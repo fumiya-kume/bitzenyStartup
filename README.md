@@ -23,3 +23,9 @@ git clone https://github.com/fumiya-kume/bitzenyStartup.git
 cd bitzenyStartup
 sh ./start.sh
 ```
+
+## Where is mining pool?
+
+using **Blue Pool**
+
+https://bitzeny.bluepool.info/
