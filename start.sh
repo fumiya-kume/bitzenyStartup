@@ -11,4 +11,4 @@ sudo apt-get install build-essential libcurl4-openssl-dev -y
 ./nomacro.pl    # in case the assembler doesn't support macros
 ./configure CFLAGS="-O3" # Make sure -O3 is an O and not a zero!
 make
-./minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u ZmE3QxnPc2kbP8D6gik2THfdEw2dsQESTJ
+sh ./run.sh
