@@ -11,4 +11,4 @@ sudo apt-get install build-essential libcurl4-openssl-dev -y
 ./nomacro.pl    # in case the assembler doesn't support macros
 ./configure CFLAGS="-O3"  # Make sure -O3 is an O and not a zero!
 make
-sh ./apuminer/run.sh
+sh ./run.sh
